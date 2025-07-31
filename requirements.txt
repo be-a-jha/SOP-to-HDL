@@ -1,3 +1,1 @@
-PyMuPDF>=1.23.0
-Flask>=2.3.0
-Werkzeug>=2.3.0
+# No dependencies needed for basic deployment
